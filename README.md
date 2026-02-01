@@ -1,2 +1,2 @@
-# undergrad_ml_assignments
-Assignments for undergraduate machine learning
+# 2: Wrangling and EDA
+Completed assignment is in the associated Jupyter noteboo. 
